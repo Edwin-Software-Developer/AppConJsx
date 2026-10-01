@@ -1,0 +1,8 @@
+node_modules/
+dist/
+node_modules/
+dist/
+tarea-react/node_modules/
+tarea-react/dist/
+tarea-react/android/.gradle/
+tarea-react/android/app/build/
